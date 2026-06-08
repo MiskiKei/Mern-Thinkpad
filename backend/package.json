@@ -1,0 +1,28 @@
+{
+  "name": "mern-thinkpad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiskiKei/Mern-Thinkpad.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiskiKei/Mern-Thinkpad/issues"
+  },
+  "homepage": "https://github.com/MiskiKei/Mern-Thinkpad#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
